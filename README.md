@@ -62,8 +62,11 @@ Screenshots of implementation steps are available in the `/screenshots` folder.
 
 ---
 
-## Outcome
-A production-ready secure Linux server with hardened SSH, firewall protection, and intrusion prevention.
+## Learning Outcomes
+- Hands-on experience with EC2 and Linux hardening
+- Deep understanding of SSH security best practices
+- Firewall and intrusion prevention configuration
+
 
 ---
 
